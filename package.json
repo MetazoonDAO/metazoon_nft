@@ -1,0 +1,9 @@
+{
+  "name": "metazoon_nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
